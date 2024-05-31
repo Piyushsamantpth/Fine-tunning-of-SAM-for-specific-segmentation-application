@@ -17,7 +17,8 @@ project/
 ├── SAM_training.ipynb
 ├── sam_test.ipynb
 ├── requirements.txt
-└── README.md
+├── README.md
+└── setup.py
 
 # Dataset
 Make sure to place your dataset files in the appropriate paths specified in the notebooks.
