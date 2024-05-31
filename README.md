@@ -18,3 +18,18 @@ project/
 ├── sam_test.ipynb
 ├── requirements.txt
 └── README.md
+
+# Dataset
+Make sure to place your dataset files in the appropriate paths specified in the notebooks.
+
+For example:
+
+Training images: ../../2 Extracted Data/smaller set to practice /stack_image.tiff
+Training masks: ../../2 Extracted Data/smaller set to practice /stack_GT.tiff
+Test images: ../../2 Extracted Data/Test/stack_test_image.tiff
+
+Model Checkpoint
+After training, the model checkpoint is saved as SAM 256 X 256.pth. This file is loaded in the testing notebook to make predictions.
+
+Acknowledgments
+This project utilizes the Segment Anything Model (SAM) from Facebook AI Research. Special thanks to the developers of the libraries used in this project.
