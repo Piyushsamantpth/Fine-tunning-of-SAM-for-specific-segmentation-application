@@ -1,4 +1,4 @@
-# Lung Nodule Segmentation with SAM
+# Lung Nodule Segmentation with fine tunning of the SAM
 
 This project involves fine-tuning the Segment Anything Model (SAM) for lung nodule segmentation. It includes two main notebooks: one for training the model and one for testing the model.
 
