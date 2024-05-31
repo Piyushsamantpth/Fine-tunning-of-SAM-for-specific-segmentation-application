@@ -9,7 +9,8 @@ To set up the environment, install the required dependencies listed in the `requ
 ```sh
 pip install -r requirements.txt
 
-## Directory Structure
+#Directory Structure
+
 Ensure that your project directory is structured as follows:
 
 project/
