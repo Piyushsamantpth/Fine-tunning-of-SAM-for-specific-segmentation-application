@@ -32,4 +32,4 @@ Model Checkpoint
 After training, the model checkpoint is saved as SAM 256 X 256.pth. This file is loaded in the testing notebook to make predictions.
 
 Acknowledgments
-This project utilizes the Segment Anything Model (SAM) from Facebook AI Research. Special thanks to the developers of the libraries used in this project.
+This project utilizes the Segment Anything Model (SAM) from Facebook AI Research.
